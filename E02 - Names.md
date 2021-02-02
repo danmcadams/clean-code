@@ -1,5 +1,4 @@
 ## E02: Names
----
 ### Reveal Your Intent
 * If you need a comment, the name doesn't reveal intent
 * Variables should describe themselves
